@@ -1,2 +1,0 @@
-(this["webpackJsonpbipin-portfolio"]=this["webpackJsonpbipin-portfolio"]||[]).push([[4],{295:function(i,t,e){"use strict";e.r(t);e(1);var s=e(0);t.default=function(i){return Object(s.jsx)("div",{className:"d-flex justify-content-center align-items-center m-2 iconCard",children:Object(s.jsx)("img",{className:"img-fluid skillsImg",src:i.src,alt:i.label,title:i.label})})}}}]);
-//# sourceMappingURL=4.8ea73dc5.chunk.js.map
